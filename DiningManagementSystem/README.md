@@ -1,0 +1,1 @@
+Dining Management System beta version implemented by using Microsoft Visual Studio 2013(Win Form Application) and Microsoft SQL Server Management Studio 2012.
